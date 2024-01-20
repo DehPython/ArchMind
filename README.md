@@ -12,7 +12,7 @@ Esse projeto tem 3 variações.
 
 Hipóteses:
 
-1- É possivel usar CNN para classificar as imagens do espectograma do audio ?
+1- É possivel usar CNN para classificar as imagens do espectograma do audio ? (3)
 
 2- Redes Recorrentes seriam uma boa opção para lidar com esse problema ?
 
