@@ -1,8 +1,8 @@
 # ArchMind
 
-Esse projeto tem 3 variações.
-
 Objetivo: Conseguir separar diferentes audios de pessoas em clusters, sendo cada cluster todos os audios daquela pessoa.
+
+Esse projeto tem 3 variações.
 
 1ª - Utilizar um algoritmo de aprendizado constrativo, e em cima da representação, aplicar um algoritmo de clustering por densidade.
 
