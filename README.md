@@ -17,6 +17,7 @@ Hipóteses:
 2- Redes Recorrentes seriam uma boa opção para lidar com esse problema ?
 
 
-Referencias:
+# Referencias
+
 HILLESHEIN, Henrique. Desenvolvimento de um Sistema de Reconhecimento de Locutor Utilizando Aprendizado de Máquina. 2018. Trabalho de Conclusão de Curso (Graduação) – Engenharia de Telecomunicações, Instituto Federal de Santa
 Catarina, Praia Comprida. Disponível em: <https://github.com/DehPython/ArchMind/files/13999286/TCC290_Henrique_Hilleshein.pdf>. Acesso em: 19/01/2024. Observação: Documento totalmente lido, com relevante impacto no estudo realizado.
