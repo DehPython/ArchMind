@@ -23,7 +23,7 @@ Será necessario instalar em sua maquina o FFmpeg, ele é um programa de computa
 #### Ubuntu
 ```bash
 sudo apt-get install ffmpeg
-
+```
 #### Windows
 [Download FFmpeg](https://ffmpeg.org/download.html)
 
