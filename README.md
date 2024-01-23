@@ -23,7 +23,8 @@ Será necessario instalar em sua maquina o FFmpeg, ele é um programa de computa
 #### Ubuntu
 ```sudo apt install ffmpeg```
 #### Windows
-[FFmpeg Download]([URL](https://ffmpeg.org/download.html))
+[Download FFmpeg](https://ffmpeg.org/download.html)
+
 
 ## Referencias
 
