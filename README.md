@@ -27,6 +27,23 @@ sudo apt-get install ffmpeg
 #### Windows
 [Download FFmpeg](https://ffmpeg.org/download.html)
 
+#### Fedora:
+
+```bash
+sudo dnf install ffmpeg
+```
+
+#### CentOS/RHEL:
+
+```bash
+sudo yum install ffmpeg
+```
+
+#### Arch Linux:
+
+```bash
+sudo pacman -S ffmpeg
+```
 
 ## Referencias
 
