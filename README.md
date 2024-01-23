@@ -10,12 +10,14 @@ Esse projeto tem 3 variações.
 
 3ª - Algoritmo de verificação facial, transformando o audio em imagem e tentar distinguir como uma "digital / face ID" de quem fala.
 
-Hipóteses:
+## Hipóteses:
 
 1- É possivel usar CNN para classificar as imagens do espectograma do audio ? (3)
 
 2- Redes Recorrentes seriam uma boa opção para lidar com esse problema ?
 
+## Requisitos:
+Será necessario instalar em sua maquina o FFmpeg, ele é um programa de computador que grava, converte e cria stream de áudio e vídeo em diversos formatos. E será necessário para conseguir automatizar a conversão dos audios em .ogg e outros formatos para o formato .wav 
 
 ## Referencias
 
