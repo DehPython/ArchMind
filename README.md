@@ -29,7 +29,7 @@ or
 ```bash
 sudo apt install ffmpeg
 ```
-#### Windows
+#### Windows / macOS
 [Download FFmpeg](https://ffmpeg.org/download.html)
 
 #### Fedora:
