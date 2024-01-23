@@ -17,7 +17,12 @@ Esse projeto tem 3 variações.
 2- Redes Recorrentes seriam uma boa opção para lidar com esse problema ?
 
 ## Requisitos:
-Será necessario instalar em sua maquina o FFmpeg, ele é um programa de computador que grava, converte e cria stream de áudio e vídeo em diversos formatos. E será necessário para conseguir automatizar a conversão dos audios em .ogg e outros formatos para o formato .wav 
+### FFmpeg (opcional)
+Será necessario instalar em sua maquina o FFmpeg, ele é um programa de computador que grava, converte e cria stream de áudio e vídeo em diversos formatos. E será necessário para conseguir automatizar a conversão dos audios em .ogg e outros formatos para o formato padrão .wav 
+
+#### Ubuntu
+```sudo apt install ffmpeg´´´
+
 
 ## Referencias
 
