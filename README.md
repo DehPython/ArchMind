@@ -21,7 +21,9 @@ Esse projeto tem 3 variações.
 Será necessario instalar em sua maquina o FFmpeg, ele é um programa de computador que grava, converte e cria stream de áudio e vídeo em diversos formatos. E será necessário para conseguir automatizar a conversão dos audios em .ogg e outros formatos para o formato padrão .wav 
 
 #### Ubuntu
-```sudo apt install ffmpeg```
+```bash
+sudo apt-get install ffmpeg
+
 #### Windows
 [Download FFmpeg](https://ffmpeg.org/download.html)
 
