@@ -24,6 +24,11 @@ Será necessario instalar em sua maquina o FFmpeg, ele é um programa de computa
 ```bash
 sudo apt-get install ffmpeg
 ```
+or
+
+```bash
+sudo apt install ffmpeg
+```
 #### Windows
 [Download FFmpeg](https://ffmpeg.org/download.html)
 
