@@ -54,3 +54,7 @@ sudo pacman -S ffmpeg
 
 HILLESHEIN, Henrique. Desenvolvimento de um Sistema de Reconhecimento de Locutor Utilizando Aprendizado de Máquina. 2018. Trabalho de Conclusão de Curso (Graduação) – Engenharia de Telecomunicações, Instituto Federal de Santa
 Catarina, Praia Comprida. Disponível em: <https://github.com/DehPython/ArchMind/files/13999286/TCC290_Henrique_Hilleshein.pdf>. Acesso em: 19/01/2024. Observação: Documento totalmente lido, com relevante impacto no estudo realizado.
+
+## Coisas relevantes aprendidas
+
+Uma forma de se adquirir características do sinal de voz é utilizando uma técnica de características espectrais de curto prazo (short-term spectral features). Características espectrais de curto prazo, se trata da computação de quadros entre 20 e 30 milissegundos de duração. Essas características normalmente são descritores do envelope espectral de curto prazo (short-term spectral envelope), os quais são acusticamente correlacionados com o timbre, como as propriedades de ressonância do trato vocal (KINNUNEN; HAIZHOU, 2010).
